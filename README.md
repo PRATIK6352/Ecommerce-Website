@@ -1,3 +1,2 @@
 # Ecommerce-Website
 React + Django Integrated Project
-kyaa re lawdo...
